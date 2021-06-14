@@ -10,5 +10,5 @@ var SpaceLocation = /** @class */ (function () {
     return SpaceLocation;
 }());
 exports.SpaceLocation = SpaceLocation;
-var saturn = new SpaceLocation("Saturn", 12000000000);
-console.log(saturn);
+//  let saturn = new SpaceLocation("Saturn", 12000000000);
+//  console.log(saturn);
